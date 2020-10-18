@@ -15,6 +15,10 @@ This is 4 member group project for 3rd year 2nd semester at SLIIT ( Sri Lanka In
 ### 1. Retrieve our project now
 
 ```git
+Admin:
+ $ git clone git@github.com : (https://github.com/KGMalith/TransportApp-Web-Admin.git)
+
+Forntend:
  $ git clone git@github.com : (https://github.com/KGMalith/TransportApp-Web.git)
 ```
 
